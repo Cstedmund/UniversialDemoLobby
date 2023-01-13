@@ -1,6 +1,6 @@
 {
 	"name": "com.ed.universialdemolobby",
-	"displayName": "Ed Universial Demo Lobby",
+	"displayName": "Cst Universial Demo Lobby",
 	"description": "Universial Demo Lobby is graping all the scene in the scene manager and display  on a list",
 	"version": "1.0.0",
 	"unity": "2021.3",
@@ -9,7 +9,7 @@
 	"license": "MIT",
 	"author": {
 		"email": "tsedmundcs@gmail.com",
-		"name": "Edmund",
+		"name": "Cstedmund",
 		"url": "https://github.com/Cstedmund"
 	}
 }
